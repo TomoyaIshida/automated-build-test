@@ -1,2 +1,2 @@
 FROM dockersamples/static-site
-EVM AUTHOR="Tomoya Ishida"
+ENV AUTHOR="Tomoya Ishida"
